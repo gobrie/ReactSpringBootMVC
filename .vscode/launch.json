@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-AgenciaApplication<agencia>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.agenciadeviagem.agencia.AgenciaApplication",
+            "projectName": "agencia",
+            "args": ""
+        }
+    ]
+}
